@@ -1,0 +1,11 @@
+# Ignore Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.vssscc
+*.cache
+*.log
+*.pdb
+*.obj
+bin/
+obj/
