@@ -1,4 +1,4 @@
-# Customers API
+﻿# Customers API
 
 ## Project Overview
 This is a RESTful API built with **.NET 6** using **Entity Framework Core** and **SQL Server**. The API manages customer data from the `WideWorldImporters` database and supports CRUD operations.
